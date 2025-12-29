@@ -18,3 +18,6 @@ Perform basic exploratory data analysis (EDA) on a small survey dataset using Py
 
 ## Project status
 Initial project setup for a course assignment.
+
+## Notes
+Project created as part of Module 11 assignment.
